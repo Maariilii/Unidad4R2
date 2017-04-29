@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WSCustomer</string>
+    <string name="adultos">adultos</string>
+    <string name="regresar">regresar</string>
+    <string name="attion_settings">attion_settings</string>
+    <string name="eliminar">eliminar</string>
+    <string name="modificar">modificar</string>
+    <string name="comapny_name">Comapny Name</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_type">Contact Type</string>
+    <string name="conatct_title">Conatct Title</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="region">Region</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="country">Country</string>
+    <string name="phone">Phone</string>
+    <string name="fax">Fax</string>
+    <string name="list">list</string>
+    <string name="save">save</string>
+</resources>
